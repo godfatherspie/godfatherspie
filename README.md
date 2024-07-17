@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @godfatherspie
-- 👀 I’m interested in Python, C++, CyberSec and GameDev
+- 👀 I’m interested in Python, C++, CyberSec 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
